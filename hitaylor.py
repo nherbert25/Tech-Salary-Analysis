@@ -1,1 +1,3 @@
-print('gofuckyaself')
+print('test')
+
+print('foobar')
