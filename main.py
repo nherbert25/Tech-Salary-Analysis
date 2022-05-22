@@ -5,7 +5,7 @@ import pytest
 import matplotlib.pyplot as plt
 import graphing
 
-print('gofuckyaself')
+print('test')
 
 print('cats are great')
 
